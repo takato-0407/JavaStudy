@@ -11,7 +11,7 @@ public class Task1_1 {
         // [ここへ記述]  浮動小数点型のdoubleにhogeDoubleと言う変数を作り0.2を代入した
         double hogeDouble = 0.2;
 
-        // ④変数 hogeInt を値「100」で上書き
+        /// ④変数 hogeInt を値「100」で上書き
         int hogeInt = 100;
         // ⑤変数 hogeString を値「合格」で上書き
         String hogeString = "合格";
